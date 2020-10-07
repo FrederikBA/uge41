@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b5b098d-70ef-4558-9ca5-6491e4dfd9f7" name="Default Changelist" comment="" />
+    <list default="true" id="561c727f-e38f-436c-8926-bca8549d856a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -17,7 +21,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1iYP28EgDQmzbO8R2sLR5h4YMIB" />
+  <component name="ProjectId" id="1iYP6W01V0Sk7I8n7epCPTFwz4j" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,21 +29,54 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="task1 main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="task1.main" />
+      <module name="exercises41" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9b5b098d-70ef-4558-9ca5-6491e4dfd9f7" name="Default Changelist" comment="" />
-      <created>1602081344296</created>
+      <changelist id="561c727f-e38f-436c-8926-bca8549d856a" name="Default Changelist" comment="" />
+      <created>1602081378846</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602081344296</updated>
+      <updated>1602081378846</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="91" y="2" key="new project wizard" timestamp="1602081376261">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602081525621">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="91" y="2" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1602081376261" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1602081525621" />
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1602083513298">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1602083513298" />
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602081523706">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1602081523706" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1602083791964">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602083791964" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1602083791964">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602083791964" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1602083791964">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602083791964" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1602083791964">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602083791964" />
   </component>
 </project>
