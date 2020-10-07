@@ -1,6 +1,6 @@
 package task1;
 
-public class car {
+public class Car {
     //Properties
     private String make;
     private String model;
@@ -10,7 +10,7 @@ public class car {
 
     //Constructor
 
-    public car(String make, String model, int year, String bodyStyle) {
+    public Car(String make, String model, int year, String bodyStyle) {
         this.make = make;
         this.model = model;
         this.year = year;

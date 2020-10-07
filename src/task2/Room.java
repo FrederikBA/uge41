@@ -1,23 +1,23 @@
 package task2;
 
-public class room {
+public class Room {
     //Properties
-    private String walls;
+    private Walls walls;
     private int numberOfDoors;
     private int numberOfLamps;
     private int numberOfWindows;
 
     //Constructor
-    public room(String walls, int numberOfDoors, int numberOfLamps, int numberOfWindows) {
+
+    public Room(Walls walls, int numberOfDoors, int numberOfLamps, int numberOfWindows) {
         this.walls = walls;
         this.numberOfDoors = numberOfDoors;
         this.numberOfLamps = numberOfLamps;
         this.numberOfWindows = numberOfWindows;
     }
-
     //Behaviour
 
-    public String getWalls() {
+    public Walls getWalls() {
         return walls;
     }
 
@@ -33,3 +33,6 @@ public class room {
         return numberOfWindows;
     }
 }
+
+
+

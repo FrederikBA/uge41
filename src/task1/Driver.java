@@ -1,12 +1,12 @@
 package task1;
 
-public class driver {
+public class Driver {
     //Properties
     private String name;
     private int age;
 
     //Constructor
-    public driver(String name, int age) {
+    public Driver(String name, int age) {
         this.name = name;
         this.age = age;
     }

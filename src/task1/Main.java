@@ -1,10 +1,10 @@
 package task1;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
-        driver driver1 = new driver("Frederik", 22);
-        car car1 = new car("Volkswagen", "UP", 2016, "Hatchback");
-        car car2 = new car("Volkswagen", "T-ROC", 2018, "SUV");
+        Driver driver1 = new Driver("Frederik", 22);
+        Car car1 = new Car("Volkswagen", "UP", 2016, "Hatchback");
+        Car car2 = new Car("Volkswagen", "T-ROC", 2018, "SUV");
 
         //Assign drivers to cars.
         car1.setDriver(driver1.toString());
@@ -16,5 +16,6 @@ public class main {
 
         //Print the driver
         System.out.println(driver1);
+
     }
 }
